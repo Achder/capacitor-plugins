@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorKeyboard',
+      name: 'meerpohlKeyboard',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
